@@ -1,0 +1,8 @@
+body{background-color:#E5D0E3;}
+
+.header{color: black;font-size:60px;}
+.menu{color: rgb(255, 255, 255);font-family: 'Lobster', cursive;display: flex; justify-content: space-between;
+    font-size: 45px; background-color: black; }
+.about{text-align: center; font-size: 25px;background-color: black;color: white;}
+.grid{border: 2px solid rgb(0, 0, 0);border-radius: 8px;display: flex; justify-content:space-evenly; flex-wrap:wrap; font-family: 'Lobster',cursive;}
+
